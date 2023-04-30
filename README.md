@@ -1,7 +1,7 @@
 
-
+![logo](https://github.com/NikithaKaredla/NikithaKaredla/blob/main/Sri%20Nikitha%20Reddy%20Karedla.jpg)
 <h1 align="center">Hey There! 👋, I'm Nikitha</h1>
-<h3 align="center">"Data Engineer and Analytics Expert Driven to Uncover Insights and Optimize Operations"</h3>
+
 <img align="right"alt="coding"width="400"src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 🔭 **A highly motivated data professional pursuing a Masters in Data Analytics Engineering from Northeastern University. With a Bachelor's in Computer Science, I possess a strong foundation in programming, data structures, and software engineering. I have professional experience as an Assistant Systems Engineer at Tata Consultancy Services, where I maintained ETL pipelines, automated workflows, and ensured high uptime of AI tools on AWS with Agile Management. I have also completed several data-driven projects leveraging machine learning algorithms and data visualization techniques. With excellent problem-solving skills and attention to detail, I strive to contribute to data-driven solutions that make a positive impact on society.**
