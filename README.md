@@ -4,7 +4,7 @@
 <h3 align="center">" A Data Engineer and Analytics Expert Driven to Uncover Insights and Optimize Operations"</h3>
 <img align="right"alt="coding"width="400"src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🔭 Pursuing a Master's in Data Analytics Engineering from Northeastern University. With a Bachelor's in Computer Science, I possess a strong foundation in programming, data structures, and software engineering. I have professional experience as an Assistant Data Engineer at Tata Consultancy Services, where I maintained ETL pipelines, automated workflows, and ensured high uptime of AI tools on AWS with Agile Management. I have also completed several data-driven projects leveraging machine learning algorithms and data visualization techniques. With excellent problem-solving skills and attention to detail, I strive to contribute to data-driven solutions that make a positive impact on society.
+- 🔭 Master's in Data Analytics Engineering from Northeastern University. With a Bachelor's in Computer Science, I possess a strong foundation in programming, data structures, and software engineering. I have professional experience as an Data Engineer at both Tata Consultancy Services and Saavishkaara, where I maintained ETL pipelines, automated workflows, and ensured high uptime of AI tools on AWS with Agile Management. I have also completed several data-driven projects leveraging machine learning algorithms and data visualization techniques. With excellent problem-solving skills and attention to detail, I strive to contribute to data-driven solutions that make a positive impact on society.
 
 - 🌱 I’m currently learning Analytics & Big Data Technologies, MultiCloud, Machine Learning, DevOps
 
